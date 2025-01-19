@@ -20,7 +20,7 @@ Find and review code examples demonstrated in B16 classes. This section serves a
 Feel free to contribute by adding your own notes, improvements, or additional resources. Create branches for specific topics or suggest edits through pull requests. Let's build a collaborative space for learning DevOps together!
 
 ## 🏢 About DevOps Insiders
-DevOps Insiders is a leading institute fostering knowledge in DevOps practices. Explore more about our institute at [devopsinsiders.com](https://devopsinsiders.com).
+DevOps Insiders is a leading institute fostering knowledge in DevOps practices. Explore more about our institute at [kahaaf.co.uk](https://kahaaf.co.uk).
 
 ## 📌 How to Use
 1. Clone the repository to your local machine.
